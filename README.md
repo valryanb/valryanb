@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valryanb&label=Profile%20views&color=0e75b6&style=flat" alt="valryanb" /> </p>
 
 <p align="right">Hi there! I'm Val. Welcome to my page.</p>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1033517691845222480/1332144330340827146/IMG_2966.png?ex=67df5516&is=67de0396&hm=affb8e6197b1a153b8470f80376de496c3157863ae1b816b1487a179ee58a9cd&" width="250px"></p>
+<p align="center"><img width=70 src="https://raw.githubusercontent.com/valryanb/valryanb/main/chibi%20pixel.png" alt="An image of the programmer Val, a young woman with red hair."></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valryanb&show_icons=true&locale=en&layout=compact" alt="valryanb" /></p>
 <h3 align="center">Languages and Tools:</h3>
